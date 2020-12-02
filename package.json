@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "* Link: [https://adventofcode.com/2020](https://adventofcode.com/2020)",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanthia/adventofcode2020.git"
+  },
+  "author": "@Hanthia",
+  "bugs": {
+    "url": "https://github.com/Hanthia/adventofcode2020/issues"
+  },
+  "homepage": "https://github.com/Hanthia/adventofcode2020#readme"
+}
